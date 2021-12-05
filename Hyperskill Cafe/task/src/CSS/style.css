@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#home,
+#about,
+#products,
+#reviews,
+#contact {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
